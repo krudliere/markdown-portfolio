@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. puppies
+2. chocolate
+3. drawrings
+
+* other
+* than
+* that
+* nothing
